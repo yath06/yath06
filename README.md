@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yath06
+- 👀 I’m interested in Game and Android app development
+- 🌱 I’m currently studying in VIT Vellore in CSE
+- 💞️ I’m looking to collaborate on game jams
